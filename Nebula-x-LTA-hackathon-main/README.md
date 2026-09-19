@@ -9,6 +9,8 @@ lift-dependent, large text). Rachel (fixed-schedule EWL commuter) and Arjun
 (flexible-start, crowd-sensitive) are fully wired up as secondary personas --
 switch between all three live with the persona chips at the top of the app.
 
+**Live App Link for Judges:** [https://commute-companion-sg-611005443072.asia-southeast1.run.app/](https://commute-companion-sg-611005443072.asia-southeast1.run.app/)
+
 ## Quickstart (clean machine)
 
 Requires Node.js 20+.
